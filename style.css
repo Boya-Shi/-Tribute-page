@@ -1,0 +1,139 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    font-size: 1.25em;
+    font-weight: 300;
+    margin: 50px 100px;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-weight: 900;
+    font-size: 2.5em;
+
+}
+
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+    font-weight: 500;
+    color:chocolate;
+    margin: 30px;
+
+}
+
+h3{
+    font-size: 1.4em;
+
+}
+
+.image1{  
+    height: 400px;
+    width: 300px; 
+    border-radius: 40px;
+    border: medium solid ;
+    margin-top: 10px;
+    
+}
+
+.introduction{
+    display: flex;
+    margin: 0px 0px 70px 0px;
+}
+.major{
+    display: flex;
+    margin: 70px 0px;
+    
+}
+
+.block1{
+    display: block;
+    margin: 20px 0px 0px 70px;
+}
+
+.block2{
+    display: block;
+    margin: 20px 50px;
+}
+ul{
+    margin: 20px 10px;
+    padding-left: 20px;
+}
+
+.block3{
+    display: block;
+    margin: 70px 0px;
+}
+
+ol{
+    margin: 20px 10px;
+    padding-left: 20px;
+}
+
+.image2{
+    height: 400px;
+    border-radius: 40px;
+    border: medium solid ;
+    margin-top: 10px;
+}
+.externallinks{
+    margin: 70px 0px;
+    display: flex;
+}
+.image3{
+    height: 400px;
+    border-radius: 40px;
+    border: medium solid ;
+    margin-top: 10px;
+}
+
+.block4{
+    display: block;
+    margin: 20px 50px;
+}
+
+a{
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+a:link {
+    color:darkblue;
+}
+  
+a:visited {
+    color:cornflowerblue;
+}
+  
+a:focus {
+    border-bottom: 1px solid;
+    background: #98bbe4;
+}
+  
+a:hover {
+    border-bottom: 1px solid;
+    background: #98bbe4;
+}
+  
+a:active {
+    background: darkblue;
+    color: cornflowerblue;
+}
+a.back{
+    font-family: fantasy;
+    font-size: 1.25em;
+    display:inline-flex;
+    text-align: center;
+    color: chocolate;
+    margin: 50px 500px 0px 500px;
+    padding: 20px 20px 10px 20px;
+    border-style: dashed;
+    border-width: 3px;
+}
+
+
