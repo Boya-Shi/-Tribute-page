@@ -127,13 +127,18 @@ a:active {
 a.back{
     font-family: fantasy;
     font-size: 1.25em;
-    display:inline-flex;
+    display: table;
     text-align: center;
     color: chocolate;
     margin: 50px 500px 0px 500px;
     padding: 20px 20px 10px 20px;
     border-style: dashed;
     border-width: 3px;
+
+    
+    
+    
+    
 }
 
 
